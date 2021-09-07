@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Preguntas y respuestas",
+        "location": "./apps/test/index.html",
+        "icon": "assets/apps/icons/preguntas-respuestas.png"
+    },
+    {
+        "name": "Lista tareas",
+        "location": "./apps/task/index.html",
+        "icon": "assets/apps/icons/list-taks.jpg"
+    },
+    {
+        "name": "Lista contactos",
+        "location": "./apps/contact-app/index.html",
+        "icon": "assets/apps/icons/contact-list.png"
+    },
+    
+    {
+        "name": "Viajes soñados",
+        "location": "./apps/trip/index.html",
+        "icon": "assets/apps/icons/dream-trips.png"
+    },
+    {
+        "name": "Reservas peluqueria",
+        "location": "./apps/reservas/index.html",
+        "icon": "assets/apps/icons/booking.png"
+    }
+  
+  
+ 
+
+]
