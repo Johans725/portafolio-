@@ -1,0 +1,27 @@
+#home{
+    height: calc( 100% - 60px );
+}
+
+
+#home .icon-app{
+    width: 160px;
+    height: 160px;
+    cursor: pointer;
+    border-radius: 4px;
+ 
+}
+
+#home .text-app{
+    font-size: 14px;
+}
+
+
+
+
+
+@media (max-width: 576px) {
+    #home .icon-app {
+        width: 66px;
+        height: 66px;
+    }
+  }
