@@ -24,7 +24,13 @@
         "name": "Reservas peluqueria",
         "location": "./apps/reservas/index.html",
         "icon": "assets/apps/icons/booking.png"
+    }, 
+    {
+        "name": "Burger",
+        "location": "./apps/burger-queen/index.html",
+        "icon": "assets/apps/icons/burger-queen.jpg"
     }
+
   
   
  
